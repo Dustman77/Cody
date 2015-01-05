@@ -1,3 +1,4 @@
+#Imports libraries for the program
 import time
 import csv
 import os.path
